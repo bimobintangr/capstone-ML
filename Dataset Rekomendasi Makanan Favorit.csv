@@ -1,0 +1,306 @@
+Umur,Jenis Kelamin,Status,Pendidikan Terakhir,Bidang Pekerjaan,Pendapatan Perbulan,Provinsi,Kabupaten/Kota,Apakah Anda Sering Liburan,Apakah Anda Hobi Kuliner,Berapa uang yang anda keluarkan untuk membeli makanan dalam sehari?,Berapa kali anda membeli makanan keluar dalam seminggu?,Suka Pedas,Suka Manis,Suka Asin,Suka Asam,Suka Makanan Berkuah,Prioritas 1,Prioritas 2,Prioritas 3
+21,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Jawa Barat,Kab Bogor,Yes,Yes,30000,7,Ya,Tidak,Ya,Ya,Ya,Seafood,Seblak,Bakso
+33,Laki - Laki,Sudah Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sekadau,Yes,Yes,30000,1,Tidak,Ya,Tidak,Tidak,Ya,Lamongan,Nasi Padang,Ayam Geprek
+20,Laki - Laki,Sudah Menikah,SMA,Swasta,5.000.000 sampai 10.000.000,DKI Jakarta,Jakarta selatan,Yes,Yes,"25,000",3,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Bakso,Tongseng
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kapuas hulu,No,Yes,10000,5,Ya,Ya,Ya,Ya,Ya,Soto Ayam,Seafood,Bubur
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Melawi,No,Yes,20000,1,Ya,Ya,Ya,Ya,Ya,Ayam Geprek,Lamongan,Nasi Padang
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kapuas hulu,No,Yes,"30,000",7,Ya,Ya,Tidak,Ya,Ya,Ayam Geprek,Seafood,Bakso
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,50000,10,Ya,Ya,Ya,Tidak,Ya,Ayam Geprek,Bakso,Seblak
+25,Laki - Laki,Belum Menikah,S1,Belum Bekerja,Belum ada pendapatan,DKI Jakarta,Jakarta Timur,No,No,30000,2,Ya,Ya,Tidak,Tidak,Ya,Nasi Uduk,Tongseng,Ayam Geprek
+119,Perempuan,Sudah Menikah,SD,TNI/POLRI,> 20.000.000,Bangka Belitung,Belitung,Yes,Yes,25000,3,Tidak,Ya,Tidak,Ya,Tidak,Getuk,Bubur,Soto Ayam
+22,Laki - Laki,Belum Menikah,S1,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Banten,Serang,Yes,Yes,20000,5,Tidak,Ya,Ya,Tidak,Tidak,Nasi Padang,Mie Ayam,Sate
+47,Perempuan,Belum Menikah,S3,Pegawai Negeri Sipil,5.000.000 sampai 10.000.000,Jawa Timur,Kota malang,Yes,Yes,300000,14,Tidak,Ya,Tidak,Ya,Ya,Seafood,Bakso,Soto Ayam
+21,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,20000,5,Tidak,Ya,Ya,Ya,Ya,Nasi Padang,Seafood,Sayur Sop
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,DKI Jakarta,Jakarta Timur,No,Yes,50000,7,Tidak,Ya,Ya,Ya,Ya,Lamongan,Sate,Nasi Uduk
+23,Laki - Laki,Belum Menikah,SMA,Honorer,500.000 sampai 1.000.000,Kalimantan Barat,Kapuas hulu,Yes,Yes,20000,3,Ya,Ya,Ya,Ya,Ya,Lamongan,Mie Ayam,Nasi Padang
+23,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,DKI Jakarta,Jakarta selatan,Yes,Yes,50000,7,Tidak,Ya,Ya,Ya,Ya,Bakso,Seafood,Seblak
+21,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,25000,4,Ya,Ya,Ya,Tidak,Ya,Lamongan,Nasi Padang,Tongseng
+22,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,DKI Jakarta,Jakarta selatan,No,Yes,30000,4,Tidak,Ya,Ya,Tidak,Ya,Bakso,Mie Ayam,Sate
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,"150,000",6,Ya,Tidak,Ya,Ya,Ya,Seafood,Nasi Padang,Seblak
+21,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,5.000.000 sampai 10.000.000,Papua Pegugungan,Papua,No,Yes,300,5,Ya,Ya,Ya,Ya,Ya,Sate,Bakso,Nasi Kuning
+20,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,20000,2,Tidak,Ya,Ya,Tidak,Tidak,Mie Ayam,Nasi Kuning,Nasi Padang
+26,Perempuan,Belum Menikah,S1,Honorer,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,Yes,10000,3,Tidak,Ya,Tidak,Ya,Ya,Soto Ayam,Ayam Geprek,Lamongan
+23,Perempuan,Belum Menikah,Lainnya,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Kalbar,Yes,Yes,100,3,Tidak,Ya,Tidak,Tidak,Ya,Lamongan,Mie Ayam,Bakso
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,Yes,"10,000",3,Ya,Ya,Ya,Ya,Ya,Mie Ayam,Nasi Padang,Nasi Kuning
+19,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,15000,2,Ya,Tidak,Ya,Ya,Ya,Seafood,Mie Ayam,Tongseng
+19,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,kota bekasi,No,No,40000,10,Ya,Ya,Ya,Ya,Ya,Mie Ayam,Nasi Padang,Nasi Uduk
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,25000,4,Ya,Tidak,Ya,Ya,Ya,Bakso,Soto Ayam,Ayam Geprek
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,Kota Bandung,Yes,Yes,50000,4,Ya,Tidak,Ya,Ya,Ya,Ayam Geprek,Seblak,Soto Ayam
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kepulauan Riau,Kota Batam,No,Yes,22000,2,Tidak,Ya,Ya,Tidak,Ya,Nasi Padang,Ayam Geprek,Lamongan
+26,Perempuan,Sudah Menikah,SMA,Belum Bekerja,Belum ada pendapatan,DKI Jakarta,Jakarta Selatan,Yes,Yes,50000,5,Ya,Tidak,Ya,Tidak,Ya,Mie Ayam,Bakso,Seblak
+60,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Jawa Timur,Kota surabaya,Yes,Yes,20000,1,Ya,Tidak,Ya,Ya,Ya,Sayur Sop,Nasi Padang,Soto Ayam
+20,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Melawi,No,No,25000,2,Ya,Ya,Ya,Ya,Tidak,Seblak,Ayam Geprek,Nasi Kuning
+23,Laki - Laki,Belum Menikah,Lainnya,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Kalimantan Barat,Sintang,No,Yes,30000,5,Ya,Ya,Tidak,Tidak,Tidak,Lamongan,Seafood,Ayam Geprek
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,"25,000",10,Ya,Ya,Ya,Tidak,Tidak,Seblak,Sate,Mie Ayam
+59,Perempuan,Sudah Menikah,SMA,Swasta,500.000 sampai 1.000.000,Jawa Timur,Sidoarjo,Yes,Yes,200000,3,Ya,Tidak,Tidak,Ya,Ya,Nasi Padang,Ayam Geprek,Soto Ayam
+22,Laki - Laki,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,Bogor,No,Yes,"25,000",3,Ya,Ya,Tidak,Tidak,Ya,Sate,Bakso,Sate
+23,Laki - Laki,Belum Menikah,SMA,Belum Bekerja,5.000.000 sampai 10.000.000,Kalimantan Barat,Sekadau hilir,Yes,No,2500,3,Ya,Tidak,Tidak,Tidak,Ya,Soto Ayam,Ayam Geprek,Bakso
+20,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Gorontalo,Kota Gorontalo,Yes,No,"20,000",10,Ya,Tidak,Tidak,Ya,Ya,Ayam Geprek,Bakso,Seafood
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,Ciawi,No,Yes,"50,000",5,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Bakso,Mie Ayam
+22,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Timur,Malang,No,No,30000,1,Tidak,Ya,Ya,Tidak,Ya,Bubur,Mie Ayam,Seafood
+22,Perempuan,Belum Menikah,Lainnya,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kabupaten Sintang,No,Yes,"100,000",7,Ya,Tidak,Tidak,Ya,Ya,Seblak,Bakso,Sate
+31,Laki - Laki,Sudah Menikah,S2,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,Yes,30000,4,Tidak,Ya,Ya,Tidak,Tidak,Lamongan,Ayam Geprek,Nasi Kuning
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,No,"15,000",2,Ya,Ya,Tidak,Ya,Ya,Ayam Geprek,Bakso,Sate
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,50000,2,Ya,Ya,Tidak,Tidak,Ya,Ayam Geprek,Nasi Padang,Mie Ayam
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Jawa Barat,bgr,Yes,Yes,"100,000",5,Ya,Ya,Ya,Ya,Ya,Seafood,Mie Ayam,Bakso
+29,Perempuan,Belum Menikah,S2,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Jawa Timur,Surabaya,Yes,Yes,100000,4,Ya,Tidak,Ya,Ya,Ya,Nasi Padang,Bubur,Soto Ayam
+24,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,No,"20,000",7,Tidak,Tidak,Tidak,Ya,Ya,Nasi Kuning,Nasi Padang,Bakso
+24,Perempuan,Belum Menikah,S1,Swasta,500.000 sampai 1.000.000,Kalimantan Barat,Sekadau,No,Yes,"50,000",4,Ya,Tidak,Ya,Ya,Ya,Nasi Uduk,Bakso,Mie Ayam
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Melawi,No,Yes,20000,6,Tidak,Ya,Tidak,Ya,Ya,Ayam Geprek,Bakso,Nasi Padang
+27,Perempuan,Sudah Menikah,SMA,Belum Bekerja,500.000 sampai 1.000.000,Jawa Timur,Jawatimur /Surabaya,No,Yes,"50,000",5,Ya,Ya,Ya,Tidak,Tidak,Bakso,Soto Ayam,Seblak
+60,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Jawa Timur,Kota surabaya,Yes,Yes,20000,2,Ya,Tidak,Ya,Ya,Ya,Nasi Padang,Sayur Sop,Soto Ayam
+20,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Jawa Barat,kota bogor,No,Yes,"50,000",4,Ya,Ya,Ya,Tidak,Ya,Seblak,Mie Ayam,Bakso
+21,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Jawa Barat,Bogor,Yes,No,"500,000",3,Ya,Ya,Ya,Tidak,Ya,Seblak,Nasi Padang,Bakso
+23,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,"20,000",5,Ya,Tidak,Tidak,Ya,Ya,Nasi Padang,Bakso,Ayam Geprek
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,30000,6,Tidak,Ya,Ya,Tidak,Ya,Nasi Kuning,Bakso,Seblak
+22,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Kalimantan Barat,Sekadau,No,Yes,50000,3,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Seblak,Sate
+21,Perempuan,Belum Menikah,Lainnya,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,"20,000",5,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Sate,Bakso
+18,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,Yes,Yes,10000,5,Ya,Ya,Ya,Ya,Ya,Nasi Kuning,Bakso,Sate
+27,Laki - Laki,Belum Menikah,S1,Swasta,500.000 sampai 1.000.000,Kalimantan Barat,Sintang,Yes,No,27000,2,Tidak,Ya,Tidak,Ya,Ya,Nasi Kuning,Nasi Kuning,Nasi Kuning
+22,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Jawa Barat,Bogor,No,No,"20,000",4,Ya,Ya,Tidak,Ya,Ya,Bubur,Sate,Ayam Geprek
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Jawa Tengah,wonosobo,Yes,Yes,50000,21,Ya,Ya,Ya,Tidak,Tidak,Seafood,Nasi Kuning,Mie Ayam
+21,Perempuan,Sudah Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,No,50000,4,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Mie Ayam,Sate
+23,Perempuan,Belum Menikah,S1,Swasta,500.000 sampai 1.000.000,Kalimantan Barat,Sekadau,Yes,Yes,"20,000",3,Ya,Tidak,Ya,Ya,Ya,Bakso,Nasi Padang,Mie Ayam
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,20000,2,Ya,Tidak,Ya,Ya,Tidak,Bakso,Mie Ayam,Nasi Padang
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,"20,000",1,Tidak,Ya,Ya,Ya,Ya,Mie Ayam,Seblak,Lamongan
+20,Laki - Laki,Sudah Menikah,SMA,Pelajar/Mahasiswa,5.000.000 sampai 10.000.000,Jawa Tengah,Semarang,Yes,Yes,70000,14,Ya,Tidak,Ya,Ya,Ya,Nasi Padang,Mie Ayam,Nasi Uduk
+32,Perempuan,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,50000,5,Tidak,Tidak,Ya,Tidak,Ya,Nasi Uduk,Soto Ayam,Nasi Kuning
+26,Laki - Laki,Belum Menikah,S1,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,Yes,40000,4,Ya,Ya,Tidak,Tidak,Ya,Mie Ayam,Nasi Uduk,Ayam Geprek
+24,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Kalimantan Barat,Sanggau,No,Yes,"30,000",14,Ya,Ya,Tidak,Ya,Ya,Mie Ayam,Bakso,Ayam Geprek
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kapuas hulu,No,Yes,15000,3,Ya,Ya,Ya,Ya,Ya,Seafood,Bakso,Sate
+21,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Jawa Barat,Kab Bogor,Yes,Yes,30000,7,Ya,Tidak,Ya,Ya,Ya,Seafood,Seblak,Bakso
+33,Laki - Laki,Sudah Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sekadau,Yes,Yes,30000,1,Tidak,Ya,Tidak,Tidak,Ya,Lamongan,Nasi Padang,Ayam Geprek
+20,Laki - Laki,Sudah Menikah,SMA,Swasta,5.000.000 sampai 10.000.000,DKI Jakarta,Jakarta selatan,Yes,Yes,"25,000",3,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Bakso,Tongseng
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kapuas hulu,No,Yes,10000,5,Ya,Ya,Ya,Ya,Ya,Soto Ayam,Seafood,Bubur
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Melawi,No,Yes,20000,1,Ya,Ya,Ya,Ya,Ya,Ayam Geprek,Lamongan,Nasi Padang
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kapuas hulu,No,Yes,"30,000",7,Ya,Ya,Tidak,Ya,Ya,Ayam Geprek,Seafood,Bakso
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,50000,10,Ya,Ya,Ya,Tidak,Ya,Ayam Geprek,Bakso,Seblak
+20,Perempuan,Sudah Menikah,SMA,Swasta,5.000.000 sampai 10.000.000,DKI Jakarta,Jakarta selatan,Yes,Yes,"25,000",3,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Bakso,Tongseng
+19,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,Yes,"5,000",2,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Ayam Geprek,Ayam Geprek
+21,Perempuan,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Jawa Barat,Bogor,No,Yes,50000,3,Ya,Ya,Tidak,Tidak,Ya,Bakso,Seblak,Seafood
+20,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Kalimantan Barat,Kapuas Hulu,No,Yes,"15,000",1,Tidak,Tidak,Ya,Ya,Ya,Nasi Kuning,Bakso,Ayam Geprek
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,No,5000,1,Ya,Tidak,Ya,Ya,Ya,Bakso,Nasi Padang,Ayam Geprek
+19,Laki - Laki,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Jawa Barat,Kabupaten Bogor,Yes,No,100,20,Tidak,Ya,Tidak,Tidak,Ya,Ayam Geprek,Sate,Nasi Padang
+18,Laki - Laki,Belum Menikah,S1,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Kalimantan Barat,Melawi/nanga pinoh,Yes,Yes,15000,7,Ya,Ya,Tidak,Ya,Ya,Ayam Geprek,Mie Ayam,Bakso
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kapuas Hulu,No,No,"10,000",7,Tidak,Ya,Tidak,Tidak,Ya,Sate,Bakso,Ayam Geprek
+20,Laki - Laki,Belum Menikah,Lainnya,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kabupaten Sintang,No,No,25000,4,Ya,Ya,Ya,Ya,Ya,Ayam Geprek,Seblak,Mie Ayam
+30,Perempuan,Sudah Menikah,S1,Honorer,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,Yes,"50,000",5,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Seafood,Mie Ayam
+18,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,15000,1,Tidak,Tidak,Tidak,Tidak,Ya,Nasi Padang,Bubur,Ayam Geprek
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,30000,5,Ya,Ya,Ya,Ya,Ya,Bakso,Lamongan,Seafood
+34,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,50000,7,Ya,Tidak,Tidak,Tidak,Ya,Ayam Geprek,Nasi Padang,Seafood
+41,Perempuan,Sudah Menikah,S2,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,Yes,100000,3,Tidak,Ya,Tidak,Tidak,Ya,Lamongan,Soto Ayam,Sate
+19,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kapuas hulu,No,Yes,25000,20,Ya,Tidak,Ya,Ya,Ya,Ayam Geprek,Bubur,Mie Ayam
+29,Laki - Laki,Sudah Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,DKI Jakarta,Jakarta selatan,Yes,Yes,100000,8,Tidak,Ya,Tidak,Tidak,Ya,Nasi Padang,Bakso,Soto Ayam
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kabupaten Sintang,No,Yes,15000,1,Ya,Ya,Tidak,Ya,Tidak,Nasi Padang,Lamongan,Ayam Geprek
+20,Perempuan,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,"25,000",6,Ya,Ya,Tidak,Ya,Ya,Seblak,Ayam Geprek,Bubur
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,20000,2,Ya,Ya,Ya,Ya,Ya,Bakso,Seblak,Seafood
+20,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,sekadau,No,No,10000,3,Tidak,Tidak,Tidak,Ya,Ya,Sate,Seafood,Nasi Padang
+23,Laki - Laki,Belum Menikah,SMA,Swasta,5.000.000 sampai 10.000.000,Jawa Barat,Kabupaten Bogor,No,No,50000,10,Ya,Ya,Ya,Tidak,Ya,Seblak,Mie Ayam,Ayam Geprek
+20,Perempuan,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Sumatra Utara,Kota Medan,Yes,Yes,40000,6,Ya,Ya,Tidak,Tidak,Ya,Nasi Padang,Bakso,Seafood
+20,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Jawa Barat,sukabumi,No,No,"10,000",2,Ya,Ya,Ya,Ya,Ya,Seblak,Mie Ayam,Nasi Padang
+20,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,Yes,Yes,"20,000",4,Ya,Ya,Tidak,Ya,Ya,Lamongan,Nasi Padang,Bakso
+27,Laki - Laki,Belum Menikah,SMP,Petani,500.000 sampai 1.000.000,Kalimantan Barat,Sekadau,No,Yes,"10,000",1,Ya,Ya,Ya,Ya,Ya,Lamongan,Nasi Padang,Ayam Geprek
+23,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Jawa Barat,Bogor,No,Yes,500000,2,Ya,Tidak,Tidak,Ya,Ya,Bakso,Seblak,Seafood
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kabupaten Sintang,No,No,15000,4,Ya,Ya,Ya,Ya,Ya,Ayam Geprek,Bakso,Sayur Sop
+20,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Bangka Belitung,Kota Pangkalpinang,Yes,Yes,"75,000",14,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Lamongan,Bakso
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Jawa Barat,Kota Bogor,No,Yes,50000,3,Ya,Ya,Ya,Tidak,Ya,Ayam Geprek,Seafood,Mie Ayam
+17,Perempuan,Belum Menikah,Lainnya,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,Bogor,No,Yes,15000,4,Ya,Ya,Tidak,Tidak,Tidak,Seblak,Nasi Padang,Bakso
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,Yes,"30,000",5,Tidak,Ya,Ya,Tidak,Ya,Seafood,Sayur Sop,Lamongan
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,Sukabumi,No,No,30000,10,Ya,Ya,Ya,Tidak,Ya,Ayam Geprek,Nasi Uduk,Bakso
+17,Perempuan,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Jawa Barat,Bogor,No,No,20000,7,Ya,Ya,Ya,Tidak,Ya,Ayam Geprek,Mie Ayam,Seblak
+23,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,Yes,25000,9,Ya,Tidak,Ya,Tidak,Ya,Bakso,Nasi Padang,Sate
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Tengah,Kendal,No,Yes,30000,15,Tidak,Ya,Ya,Tidak,Ya,Sate,Soto Ayam,Nasi Padang
+17,Perempuan,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Jawa Barat,bogor,No,Yes,35000,5,Tidak,Ya,Ya,Ya,Ya,Seblak,Ayam Geprek,Bakso
+20,Laki - Laki,Belum Menikah,SMA,Belum Bekerja,500.000 sampai 1.000.000,Jawa Barat,Bogor,No,Yes,20000,3,Tidak,Tidak,Tidak,Tidak,Ya,Nasi Padang,Bubur,Bakso
+17,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,bogor,Yes,Yes,"100,000",5,Ya,Ya,Ya,Ya,Ya,Ayam Geprek,Nasi Padang,Seblak
+17,Laki - Laki,Belum Menikah,SMA,Swasta,500.000 sampai 1.000.000,Jawa Barat,Bogor,No,No,20000,3,Tidak,Ya,Tidak,Tidak,Tidak,Nasi Padang,Bubur,Bakso
+55,Laki - Laki,Sudah Menikah,S1,Swasta,10.000.000 sampai 20.000.000,Banten,serang,Yes,Yes,50000,3,Ya,Ya,Ya,Tidak,Ya,Bakso,Sate,Getuk
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Jawa Barat,Kota bekasi,Yes,Yes,100000,4,Tidak,Ya,Ya,Ya,Ya,Nasi Padang,Sate,Seafood
+15,Perempuan,Belum Menikah,SMP,Pelajar/Mahasiswa,Belum ada pendapatan,Banten,serang,No,Yes,"15,000",3,Ya,Ya,Tidak,Tidak,Tidak,Nasi Padang,Bakso,Seblak
+20,Laki - Laki,Sudah Menikah,S1,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Jawa Tengah,Semarang,No,Yes,30000,10,Tidak,Ya,Ya,Tidak,Ya,Sate,Lamongan,Nasi Uduk
+21,Perempuan,Belum Menikah,Lainnya,Pelajar/Mahasiswa,Belum ada pendapatan,DKI Jakarta,Jakarta Timur,Yes,Yes,15000,2,Ya,Ya,Ya,Ya,Ya,Sate,Nasi Padang,Nasi Uduk
+29,Perempuan,Sudah Menikah,S3,Dokter,> 20.000.000,Bali,Bali,Yes,Yes,25000,3,Ya,Ya,Ya,Ya,Ya,Seafood,Seblak,Sayur Sop
+21,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,30000,7,Ya,Tidak,Ya,Ya,Ya,Sate,Ayam Geprek,Bakso
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,No,20000,3,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Seblak,Nasi Kuning
+22,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Riau,Pekanbaru,No,No,20000,2,Ya,Ya,Tidak,Ya,Ya,Seafood,Nasi Uduk,Soto Ayam
+62,Perempuan,Sudah Menikah,S3,Pegawai Negeri Sipil,10.000.000 sampai 20.000.000,Jawa Timur,Malang,No,No,25000,10,Tidak,Tidak,Tidak,Tidak,Ya,Sayur Sop,Soto Ayam,Nasi Kuning
+21,Laki - Laki,Belum Menikah,SMA,Swasta,5.000.000 sampai 10.000.000,Jawa Barat,Bogor,No,Yes,100000,3,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Nasi Padang
+63,Laki - Laki,Sudah Menikah,S1,Swasta,1.000.000 sampai 5.000.000,Jawa Timur,Sidoarjo,Yes,Yes,25000,3,Tidak,Tidak,Tidak,Tidak,Ya,Soto Ayam,Mie Ayam,Bakso
+22,Perempuan,Belum Menikah,S1,Pegawai Negeri Sipil,10.000.000 sampai 20.000.000,Lampung,Lampung utara,No,No,100,7,Ya,Tidak,Ya,Tidak,Ya,Mie Ayam,Ayam Geprek,Nasi Padang
+59,Perempuan,Sudah Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Jawa Timur,Surabaya,No,Yes,"50,000",3,Tidak,Ya,Tidak,Tidak,Ya,Sayur Sop,Ayam Geprek,Seafood
+20,Perempuan,Belum Menikah,SMA,Swasta,500.000 sampai 1.000.000,Lampung,Lampung utara,No,Yes,"15,000",4,Tidak,Tidak,Ya,Tidak,Ya,Bakso,Seafood,Seblak
+35,Perempuan,Sudah Menikah,S2,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Jawa Timur,Kota Malang,Yes,Yes,50000,5,Ya,Ya,Tidak,Tidak,Ya,Bakso,Nasi Padang,Seafood
+55,Laki - Laki,Sudah Menikah,S1,Swasta,> 20.000.000,Jawa Timur,Surabaya,Yes,Yes,50000,300000,Tidak,Ya,Ya,Ya,Ya,Soto Ayam,Sate,Mie Ayam
+17,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,bogor,Yes,Yes,"200,000",4,Ya,Tidak,Ya,Ya,Ya,Ayam Geprek,Seblak,Bakso
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Jawa Tengah,Semarang,Yes,Yes,30000,3,Tidak,Ya,Ya,Ya,Ya,Sate,Seafood,Bubur
+50,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,5.000.000 sampai 10.000.000,DKI Jakarta,Tanjung priok,Yes,Yes,100000,3,Ya,Ya,Ya,Ya,Tidak,Sate,Soto Ayam,Mie Ayam
+44,Laki - Laki,Sudah Menikah,S2,Swasta,1.000.000 sampai 5.000.000,Lampung,Bandar Jaya,No,Yes,300000,3,Tidak,Ya,Tidak,Tidak,Ya,Seafood,Nasi Padang,Sate
+40,Perempuan,Sudah Menikah,SMA,Honorer,5.000.000 sampai 10.000.000,Banten,Serang,Yes,Yes,50000,2,Ya,Ya,Ya,Ya,Ya,Getuk,Sate,Mie Ayam
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,30000,2,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Sate,Bakso
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Lampung,Lampung utara,No,Yes,50000,2,Ya,Ya,Tidak,Ya,Ya,Bakso,Mie Ayam,Ayam Geprek
+33,Laki - Laki,Belum Menikah,S1,Swasta,500.000 sampai 1.000.000,Jawa Timur,Malang,No,Yes,25000,2,Tidak,Tidak,Ya,Tidak,Ya,Nasi Padang,Nasi Kuning,Soto Ayam
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Putussibau,No,Yes,"20,000",4,Ya,Tidak,Ya,Tidak,Ya,Ayam Geprek,Nasi Kuning,Soto Ayam
+21,Perempuan,Belum Menikah,Lainnya,Belum Bekerja,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,30000,5,Ya,Ya,Ya,Ya,Ya,Ayam Geprek,Bakso,Seafood
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,"30,000",1,Tidak,Ya,Ya,Tidak,Ya,Bakso,Sate,Sayur Sop
+22,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Landak,No,Yes,20000,1,Ya,Ya,Ya,Ya,Ya,Bakso,Ayam Geprek,Sate
+40,Perempuan,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sekadau,No,Yes,"50,000",2,Tidak,Ya,Tidak,Tidak,Ya,Sate,Ayam Geprek,Bakso
+35,Perempuan,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,Yes,"50,000",1,Tidak,Ya,Tidak,Ya,Ya,Ayam Geprek,Seafood,Bakso
+20,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kabupaten Sintang,No,No,25000,3,Ya,Tidak,Tidak,Ya,Ya,Nasi Padang,Seblak,Mie Ayam
+20,Perempuan,Belum Menikah,Lainnya,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Melawi,No,Yes,"30,000",4,Ya,Ya,Tidak,Ya,Tidak,Sate,Ayam Geprek,Seafood
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Bengkayang,No,Yes,25000,5,Ya,Ya,Tidak,Ya,Ya,Bakso,Soto Ayam,Seblak
+17,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Timur,Kota mojokerto,No,Yes,30000,100000,Ya,Ya,Ya,Tidak,Ya,Bakso,Seblak,Ayam Geprek
+22,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,sintang,No,Yes,"100,000",4,Tidak,Tidak,Tidak,Ya,Ya,Sate,Seafood,Sayur Sop
+23,Perempuan,Sudah Menikah,S1,Honorer,500.000 sampai 1.000.000,Kalimantan Barat,SEKADAU,No,Yes,25000,1,Ya,Ya,Ya,Tidak,Ya,Lamongan,Bakso,Ayam Geprek
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kapuas Hulu,Yes,Yes,"15,000",3,Ya,Ya,Ya,Ya,Ya,Bakso,Ayam Geprek,Nasi Padang
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,30000,5,Ya,Ya,Ya,Ya,Ya,Seblak,Sate,Bakso
+15,Perempuan,Belum Menikah,SMP,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,Sukabumi,No,Yes,10000,3,Ya,Tidak,Ya,Ya,Ya,Bakso,Seblak,Nasi Padang
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Jawa Barat,Bogor,Yes,Yes,"25,000",3,Ya,Ya,Ya,Tidak,Ya,Seblak,Soto Ayam,Nasi Padang
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Jawa Barat,Bogor,No,Yes,"50,000",4,Ya,Ya,Ya,Ya,Ya,Bakso,Sate,Seblak
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Sumatra Utara,Medan,Yes,Yes,"50,000",4,Ya,Ya,Ya,Tidak,Ya,Bakso,Nasi Padang,Seafood
+16,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Tengah,Kebumen,Yes,Yes,"15,000",5,Ya,Tidak,Ya,Tidak,Ya,Bakso,Ayam Geprek,Nasi Uduk
+17,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,Bandung,No,No,"15,000",2,Ya,Ya,Ya,Ya,Ya,Soto Ayam,Seblak,Sate
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Lampung,Lampung Utara,No,Yes,30000,3,Ya,Ya,Ya,Ya,Ya,Bakso,Sate,Soto Ayam
+29,Laki - Laki,Belum Menikah,SD,Petani,500.000 sampai 1.000.000,Lampung,Lampung Tengah,No,No,30000,4,Ya,Ya,Tidak,Ya,Ya,Ayam Geprek,Ayam Geprek,Ayam Geprek
+21,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Banten,Cilegon,No,Yes,40000,2,Ya,Ya,Ya,Ya,Ya,Seafood,Ayam Geprek,Seblak
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Banten,Cilegon,No,No,50000,14,Tidak,Ya,Ya,Tidak,Ya,Sate,Bubur,Soto Ayam
+22,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Banten,Cilegon,Yes,Yes,50000,3,Ya,Ya,Tidak,Tidak,Ya,Ayam Geprek,Nasi Uduk,Sate
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Banten,Cilegon,Yes,Yes,"50,000",5,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Mie Ayam,Ayam Geprek
+20,Perempuan,Belum Menikah,Lainnya,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,10000,1,Ya,Tidak,Ya,Ya,Ya,Mie Ayam,Bakso,Nasi Padang
+25,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Kalimantan Barat,Sintang,No,Yes,"30,000",4,Tidak,Ya,Tidak,Tidak,Ya,Ayam Geprek,Bakso,Sayur Sop
+23,Laki - Laki,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sekadau,No,No,20000,2,Ya,Tidak,Ya,Ya,Ya,Sate,Mie Ayam,Ayam Geprek
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,Yes,"20,000",2,Tidak,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Ayam Geprek
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,10.000.000 sampai 20.000.000,Kalimantan Barat,Sintang,No,Yes,20000,3,Tidak,Ya,Ya,Ya,Ya,Seafood,Ayam Geprek,Bakso
+19,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,No,10000,7,Tidak,Ya,Tidak,Tidak,Ya,Mie Ayam,Sayur Sop,Bubur
+20,Perempuan,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,15000,3,Ya,Ya,Ya,Ya,Ya,Seblak,Nasi Padang,Ayam Geprek
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Kalimantan Barat,Sekadau,No,No,"20,000",4,Tidak,Ya,Tidak,Tidak,Ya,Mie Ayam,Ayam Geprek,Bakso
+22,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,Yes,Yes,"20,000",5,Ya,Ya,Ya,Ya,Ya,Ayam Geprek,Nasi Padang,Mie Ayam
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,"10,000",2,Ya,Tidak,Ya,Ya,Ya,Nasi Padang,Ayam Geprek,Lamongan
+22,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,"30,000",3,Ya,Ya,Ya,Ya,Ya,Bakso,Seafood,Soto Ayam
+23,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Kalimantan Barat,SINTANG,Yes,Yes,10000,2,Ya,Ya,Tidak,Ya,Ya,Sayur Sop,Nasi Padang,Seafood
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,100,3,Ya,Ya,Ya,Tidak,Ya,Bakso,Mie Ayam,Ayam Geprek
+23,Laki - Laki,Belum Menikah,S1,Honorer,500.000 sampai 1.000.000,Kalimantan Barat,Sintang,Yes,Yes,35000,3,Tidak,Tidak,Tidak,Tidak,Ya,Sate,Ayam Geprek,Soto Ayam
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kabupaten Sekadau,No,No,20,3,Ya,Ya,Tidak,Ya,Ya,Bakso,Ayam Geprek,Seblak
+26,Laki - Laki,Belum Menikah,S1,Swasta,500.000 sampai 1.000.000,Kalimantan Barat,Sintang,No,Yes,20000,5,Ya,Ya,Tidak,Ya,Ya,Sate,Ayam Geprek,Lamongan
+30,Laki - Laki,Sudah Menikah,S1,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sanggau,No,Yes,20000,6,Ya,Ya,Ya,Ya,Ya,Bakso,Sate,Ayam Geprek
+22,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,20000,3,Ya,Ya,Ya,Ya,Ya,Seafood,Mie Ayam,Seblak
+20,Perempuan,Belum Menikah,SMA,Swasta,500.000 sampai 1.000.000,Kalimantan Barat,Sambas,Yes,Yes,50000,8,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Nasi Kuning,Sate
+22,Laki - Laki,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,Bogor,Yes,Yes,"30,000",3,Ya,Ya,Tidak,Tidak,Ya,Sate,Sayur Sop,Bakso
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,200000,7,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Ayam Geprek
+20,Laki - Laki,Belum Menikah,SMA,Swasta,500.000 sampai 1.000.000,Kalimantan Barat,Sekadau,Yes,No,25000,3,Ya,Tidak,Tidak,Tidak,Ya,Nasi Padang,Nasi Kuning,Ayam Geprek
+21,Laki - Laki,Belum Menikah,Lainnya,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kabupaten Sintang,Yes,Yes,"50,000",2,Ya,Tidak,Ya,Tidak,Ya,Ayam Geprek,Nasi Padang,Bakso
+18,Perempuan,Belum Menikah,Lainnya,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kab. Sintang,No,Yes,30000,4,Ya,Tidak,Ya,Ya,Ya,Ayam Geprek,Sate,Bakso
+23,Perempuan,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Kalimantan Barat,Sekadau hilir,No,Yes,"30,000",3,Ya,Tidak,Ya,Tidak,Ya,Bakso,Mie Ayam,Ayam Geprek
+23,Laki - Laki,Belum Menikah,S1,Belum Bekerja,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,20000,7,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Mie Ayam,Sate
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Melawi,No,Yes,15000,3,Ya,Ya,Tidak,Ya,Ya,Sate,Nasi Kuning,Nasi Padang
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Kalimantan Barat,Sintang,Yes,Yes,50000,350000,Ya,Ya,Ya,Ya,Ya,Mie Ayam,Bakso,Sate
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Tengah,Bogor,Yes,Yes,100000,3,Ya,Tidak,Ya,Tidak,Ya,Seblak,Bakso,Ayam Geprek
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,PALU,No,No,50000,4,Tidak,Tidak,Ya,Ya,Ya,Nasi Kuning,Ayam Geprek,Bakso
+20,Laki - Laki,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sanggau,No,No,"70,000",9,Ya,Ya,Ya,Tidak,Tidak,Ayam Geprek,Nasi Kuning,Sate
+22,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Lampung,Lampung Utara,No,Yes,30000,2,Ya,Ya,Tidak,Tidak,Ya,Seblak,Bakso,Nasi Padang
+20,Perempuan,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,25000,3,Ya,Ya,Ya,Ya,Ya,Bakso,Ayam Geprek,Mie Ayam
+20,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,Sukabumi,No,Yes,"50,000",7,Ya,Ya,Tidak,Tidak,Tidak,Seblak,Mie Ayam,Ayam Geprek
+26,Perempuan,Belum Menikah,S1,Honorer,500.000 sampai 1.000.000,Kalimantan Barat,Sintang,No,Yes,15000,6,Ya,Ya,Ya,Tidak,Ya,Seafood,Seblak,Mie Ayam
+22,Perempuan,Belum Menikah,SMA,Swasta,500.000 sampai 1.000.000,Kalimantan Barat,Sekadau,No,Yes,10000,3,Ya,Ya,Tidak,Tidak,Tidak,Nasi Kuning,Nasi Padang,Lamongan
+22,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,sekadau,No,No,"15,000",2,Ya,Tidak,Ya,Tidak,Ya,Bubur,Ayam Geprek,Sayur Sop
+50,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,5.000.000 sampai 10.000.000,Kalimantan Barat,Sintang,No,Yes,30000,5,Tidak,Ya,Tidak,Tidak,Tidak,Nasi Padang,Bakso,Tongseng
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Sumatra Utara,Medan,Yes,Yes,150000,7,Tidak,Tidak,Ya,Ya,Ya,Bakso,Seafood,Nasi Padang
+22,Laki - Laki,Belum Menikah,S3,TNI/POLRI,10.000.000 sampai 20.000.000,Kalimantan Barat,Sintang/kedumpai,Yes,Yes,2000000,9,Ya,Ya,Ya,Ya,Ya,Seblak,Seblak,Seblak
+23,Laki - Laki,Belum Menikah,S1,Honorer,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,No,"50,000",7,Ya,Ya,Ya,Tidak,Ya,Mie Ayam,Sayur Sop,Sate
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,Tentena,No,Yes,"20,000",3,Ya,Ya,Ya,Ya,Tidak,Sate,Nasi Padang,Nasi Kuning
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,Poso,No,No,15000,3,Ya,Ya,Tidak,Tidak,Ya,Ayam Geprek,Bakso,Mie Ayam
+39,Laki - Laki,Sudah Menikah,S1,Swasta,10.000.000 sampai 20.000.000,DKI Jakarta,Jakarta Timur,No,No,75000,7,Tidak,Ya,Ya,Ya,Ya,Tongseng,Sate,Nasi Padang
+20,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,Palu,No,Yes,20000,4,Ya,Ya,Ya,Ya,Ya,Mie Ayam,Sate,Ayam Geprek
+23,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,5.000.000 sampai 10.000.000,Jawa Barat,Jawa barat,Yes,Yes,30000,21,Ya,Ya,Ya,Ya,Ya,Bakso,Ayam Geprek,Nasi Uduk
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,Palu,No,Yes,30000,2,Ya,Ya,Tidak,Tidak,Ya,Seafood,Sayur Sop,Mie Ayam
+18,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,Kota Palu,Yes,Yes,25000,2,Ya,Ya,Ya,Tidak,Ya,Sate,Bakso,Seafood
+20,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Jawa Timur,Malang,No,No,36000,21,Ya,Ya,Tidak,Ya,Ya,Mie Ayam,Sate,Nasi Padang
+18,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,Kota Palu,Yes,No,10000,3,Ya,Ya,Ya,Tidak,Ya,Sate,Mie Ayam,Lamongan
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,Poso,No,No,"20,000",5,Ya,Ya,Ya,Ya,Ya,Bakso,Ayam Geprek,Nasi Padang
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Jawa Barat,Pangandaran,Yes,Yes,"30,000",10,Ya,Ya,Ya,Ya,Ya,Seafood,Nasi Padang,Soto Ayam
+19,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,Poso,No,No,50000,4,Ya,Tidak,Ya,Ya,Ya,Bakso,Sate,Ayam Geprek
+19,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Kalimantan Barat,Sekadau,No,No,"25,000",2,Ya,Ya,Ya,Ya,Ya,Bakso,Sate,Nasi Kuning
+20,Perempuan,Belum Menikah,Lainnya,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kabupaten ketapang,No,Yes,30000,7,Ya,Ya,Ya,Tidak,Ya,Soto Ayam,Nasi Padang,Sate
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau hilir,No,Yes,50000,4,Ya,Ya,Tidak,Ya,Ya,Bakso,Ayam Geprek,Seblak
+19,Laki - Laki,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sekadau,Yes,Yes,30000,6,Ya,Ya,Ya,Ya,Ya,Lamongan,Sate,Bakso
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,"15,000",3,Ya,Ya,Ya,Ya,Ya,Seafood,Sayur Sop,Ayam Geprek
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,Yes,50000,1,Ya,Ya,Ya,Tidak,Ya,Seafood,Seblak,Bakso
+20,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Barat,Depok,No,No,10000,1,Ya,Ya,Ya,Ya,Ya,Soto Ayam,Mie Ayam,Bakso
+22,Perempuan,Belum Menikah,SMP,Petani,500.000 sampai 1.000.000,Kalimantan Barat,Pontianak,No,No,20000,6,Ya,Ya,Tidak,Ya,Ya,Soto Ayam,Seblak,Nasi Padang
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Kabupaten Sintang,Yes,Yes,100,5,Ya,Ya,Tidak,Ya,Ya,Seblak,Bakso,Mie Ayam
+19,Laki - Laki,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,No,20000,4,Ya,Ya,Tidak,Ya,Ya,Bakso,Ayam Geprek,Nasi Padang
+26,Perempuan,Belum Menikah,S1,Honorer,500.000 sampai 1.000.000,Kalimantan Barat,Kabupaten Sekadau,No,Yes,100,4,Ya,Tidak,Ya,Ya,Ya,Bakso,Mie Ayam,Seafood
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Seberuang,No,No,30000,4,Ya,Ya,Tidak,Ya,Tidak,Bubur,Mie Ayam,Nasi Padang
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,"15,000",2,Tidak,Ya,Tidak,Tidak,Ya,Seblak,Sate,Ayam Geprek
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,Yes,15000,4,Ya,Ya,Tidak,Ya,Ya,Mie Ayam,Bakso,Nasi Kuning
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,Sigi,No,No,30000,3,Ya,Tidak,Ya,Ya,Ya,Seafood,Sate,Mie Ayam
+21,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,Yes,"30,000",2,Ya,Ya,Ya,Ya,Ya,Ayam Geprek,Mie Ayam,Seafood
+23,Laki - Laki,Belum Menikah,SMA,Honorer,500.000 sampai 1.000.000,Lampung,Lampung Utara,No,Yes,25000,6,Ya,Ya,Ya,Tidak,Ya,Mie Ayam,Ayam Geprek,Sate
+20,Laki - Laki,Belum Menikah,SMA,Honorer,500.000 sampai 1.000.000,Lampung,Lampung Utara,Yes,Yes,50000,10,Ya,Ya,Ya,Ya,Ya,Bakso,Seblak,Tongseng
+17,Perempuan,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Yogyakarta,Sleman,Yes,Yes,"30,000",4,Ya,Ya,Ya,Tidak,Tidak,Mie Ayam,Ayam Geprek,Nasi Padang
+31,Perempuan,Sudah Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,20000,8,Ya,Ya,Ya,Ya,Tidak,Sate,Nasi Padang,Seafood
+15,Laki - Laki,Belum Menikah,SMP,Pelajar/Mahasiswa,Belum ada pendapatan,Lampung,bakauheni,Yes,Yes,50000,5,Ya,Ya,Tidak,Tidak,Tidak,Seblak,Seblak,Seblak
+20,Perempuan,Sudah Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,20000,4,Ya,Ya,Ya,Ya,Ya,Lamongan,Sate,Ayam Geprek
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Jawa Timur,surabaya,Yes,Yes,"50,000",5,Ya,Ya,Tidak,Tidak,Ya,Ayam Geprek,Bakso,Mie Ayam
+22,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,No,Yes,25,2,Ya,Ya,Tidak,Ya,Ya,Seblak,Ayam Geprek,Bakso
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,No,Yes,50000,3,Ya,Ya,Tidak,Ya,Ya,Bakso,Mie Ayam,Seblak
+25,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Jawa Tengah,Semarang,No,Yes,30000,10,Tidak,Tidak,Ya,Ya,Ya,Nasi Padang,Bakso,Ayam Geprek
+34,Perempuan,Belum Menikah,S1,Honorer,500.000 sampai 1.000.000,Kalimantan Barat,Sintang,Yes,Yes,100000,3,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Seblak
+22,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,20000,4,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Nasi Kuning
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Sulawesi Tengah,Tolitoli,Yes,Yes,"30,000",4,Tidak,Ya,Ya,Tidak,Ya,Mie Ayam,Nasi Padang,Ayam Geprek
+29,Laki - Laki,Belum Menikah,SMA,TNI/POLRI,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,60000,8,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Lamongan,Bakso
+25,Laki - Laki,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,10000,6,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Sate
+30,Perempuan,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,30000,6,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Seblak
+23,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,25000,6,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Nasi Uduk,Nasi Kuning
+27,Perempuan,Belum Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,30000,5,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Sate,Bakso
+28,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sekadau,Yes,Yes,50000,3,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Bakso,Sayur Sop
+29,Laki - Laki,Belum Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,40000,6,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Seafood
+32,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,50000,4,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Ayam Geprek
+33,Perempuan,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,40000,10,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Bakso,Nasi Kuning
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,20000,4,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Seafood
+19,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,5000,5,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Sayur Sop
+23,Laki - Laki,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Kapuas Hulu,Yes,Yes,20000,6,Ya,Ya,Ya,Tidak,Ya,Nasi Padang,Bakso,Lamongan
+21,Perempuan,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,10000,6,Ya,Ya,Ya,Ya,Ya,Nasi Uduk,Bakso,Lamongan
+23,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,10000,6,Ya,Ya,Ya,Tidak,Tidak,Nasi Kuning,Seblak,Lamongan
+22,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,10000,6,Ya,Ya,Tidak,Ya,Ya,Nasi Padang,Bakso,Getuk
+23,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,10000,6,Ya,Ya,Tidak,Ya,Ya,Seblak,Bakso,Mie Ayam
+21,Laki - Laki,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,20000,6,Ya,Ya,Ya,Ya,Ya,Soto Ayam,Nasi Padang,Bakso
+23,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,1.000.000 sampai 5.000.000,Banten,Cilegon,No,Yes,50000,2,Ya,Ya,Tidak,Tidak,Tidak,Nasi Padang,Tongseng,Seafood
+20,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Kalimantan Barat,Sintang,No,Yes,30000,5,Ya,Ya,Tidak,Tidak,Ya,Ayam Geprek,Bakso,Seblak
+27,Laki - Laki,Sudah Menikah,S1,Honorer,1.000.000 sampai 5.000.000,Lampung,LAMPUNG UTARA,Yes,Yes,35000,6,Ya,Ya,Ya,Ya,Ya,Soto Ayam,Tongseng,Nasi Padang
+25,Laki - Laki,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Lampung,LAMPUNG UTARA,Yes,Yes,50000,5,Ya,Ya,Ya,Tidak,Ya,Bakso,Soto Ayam,Mie Ayam
+21,Laki - Laki,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Lampung,LAMPUNG UTARA,No,Yes,20000,2,Ya,Ya,Tidak,Tidak,Ya,Bakso,Seblak,Ayam Geprek
+27,Laki - Laki,Sudah Menikah,S1,Swasta,1.000.000 sampai 5.000.000,Lampung,LAMPUNG UTARA,No,Yes,30000,3,Tidak,Ya,Tidak,Tidak,Ya,Nasi Padang,Mie Ayam,Soto Ayam
+24,Perempuan,Belum Menikah,S1,Swasta,500.000 sampai 1.000.000,Sulawesi Tengah,Poso,Yes,Yes,20000,3,Ya,Ya,Ya,Tidak,Ya,Ayam Geprek,Nasi Kuning,Bakso
+21,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,Yes,Yes,20000,3,Ya,Ya,Ya,Ya,Ya,Seafood,Nasi Padang,Seblak
+26,Laki - Laki,Belum Menikah,SMA,Belum Bekerja,Belum ada pendapatan,Lampung,TULANG BAWANG BARAT,No,No,10000,2,Ya,Ya,Ya,Tidak,Ya,Seblak,Lamongan,Ayam Geprek
+18,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Lampung,LAMPUNG UTARA,No,Yes,25000,5,Ya,Ya,Tidak,Tidak,Ya,Seblak,Bakso,Mie Ayam
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,500.000 sampai 1.000.000,Lampung,LAMPUNG UTARA,No,Yes,30000,3,Ya,Ya,Ya,Tidak,Ya,Bakso,Seblak,Ayam Geprek
+28,Perempuan,Sudah Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Lampung,LAMPUNG UTARA,No,Yes,50000,5,Ya,Ya,Tidak,Tidak,Ya,Bakso,Tongseng,Seafood
+32,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,10000,6,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Nasi Padang,Nasi Padang
+23,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,10000,4,Ya,Ya,Ya,Ya,Ya,Nasi Padang,Bakso,Sate
+22,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sekadau,Yes,Yes,20000,5,Tidak,Ya,Ya,Ya,Tidak,Bubur,Bakso,Tongseng
+25,Perempuan,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,20000,6,Ya,Ya,Ya,Ya,Ya,Soto Ayam,Bakso,Mie Ayam
+34,Laki - Laki,Sudah Menikah,S1,Swasta,5.000.000 sampai 10.000.000,Kalimantan Barat,Sintang,Yes,Yes,50000,6,Ya,Ya,Tidak,Tidak,Ya,Lamongan,Seafood,Sayur Sop
+20,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,Yes,20000,6,Ya,Ya,Ya,Ya,Ya,Bakso,Nasi Padang,Getuk
+30,Perempuan,Sudah Menikah,SMA,Petani,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,Yes,10000,6,Ya,Ya,Tidak,Ya,Ya,Nasi Padang,Bakso,Soto Ayam
+34,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,20000,6,Ya,Ya,Tidak,Ya,Ya,Bakso,Nasi Padang,Sate
+29,Perempuan,Belum Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,25000,5,Ya,Ya,Tidak,Tidak,Tidak,Sate,Seblak,Ayam Geprek
+40,Laki - Laki,Sudah Menikah,S1,Swasta,5.000.000 sampai 10.000.000,Kalimantan Barat,Sintang,Yes,Yes,50000,10,Ya,Ya,Tidak,Ya,Ya,Nasi Padang,Sayur Sop,Bakso
+20,Perempuan,Belum Menikah,SMA,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sintang,Yes,Yes,10000,5,Ya,Ya,Tidak,Tidak,Ya,Nasi Padang,Sate,Bakso
+20,Perempuan,Sudah Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sekadau,No,Yes,10000,7,Ya,Ya,Tidak,Ya,Ya,Nasi Padang,Bakso,Sate
+16,Perempuan,Belum Menikah,SMP,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,Yes,Yes,15000,6,Tidak,Ya,Tidak,Ya,Ya,Bubur,Seafood,Sayur Sop
+20,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,10000,6,Ya,Ya,Ya,Ya,Ya,Bakso,Nasi Padang,Sate
+30,Laki - Laki,Sudah Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sekadau,Yes,Yes,10000,6,Tidak,Ya,Tidak,Ya,Ya,Bakso,Nasi Padang,Seblak
+23,Perempuan,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,10000,6,Ya,Ya,Ya,Ya,Ya,Bakso,Getuk,Soto Ayam
+30,Perempuan,Belum Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,20000,6,Ya,Ya,Ya,Ya,Ya,Seafood,Sayur Sop,Nasi Uduk
+23,Laki - Laki,Belum Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,20000,6,Ya,Ya,Tidak,Tidak,Ya,Sate,Ayam Geprek,Lamongan
+25,Laki - Laki,Belum Menikah,S1,Honorer,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,25000,7,Ya,Ya,Tidak,Tidak,Tidak,Nasi Padang,Seafood,Seafood
+50,Laki - Laki,Sudah Menikah,S2,Pegawai Negeri Sipil,5.000.000 sampai 10.000.000,Kalimantan Barat,Sintang,Yes,Yes,20000,6,Tidak,Tidak,Ya,Tidak,Ya,Sayur Sop,Soto Ayam,Nasi Uduk
+25,Laki - Laki,Belum Menikah,SMA,TNI/POLRI,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,20000,7,Ya,Ya,Tidak,Tidak,Ya,Nasi Kuning,Nasi Padang,Lamongan
+29,Laki - Laki,Sudah Menikah,S1,TNI/POLRI,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,30000,5,Ya,Ya,Ya,Ya,Ya,Sayur Sop,Seafood,Lamongan
+44,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,10000,6,Ya,Ya,Ya,Ya,Ya,Getuk,Bubur,Nasi Padang
+21,Perempuan,Sudah Menikah,SMA,Swasta,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,Yes,10000,7,Ya,Ya,Ya,Ya,Ya,Nasi Uduk,Soto Ayam,Seblak
+50,Laki - Laki,Sudah Menikah,SMA,Petani,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,20000,3,Ya,Tidak,Tidak,Tidak,Ya,Bakso,Sayur Sop,Ayam Geprek
+45,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,Yes,Yes,50000,7,Tidak,Ya,Ya,Tidak,Ya,Nasi Padang,Bakso,Sate
+32,Laki - Laki,Sudah Menikah,S1,Pegawai Negeri Sipil,1.000.000 sampai 5.000.000,Kalimantan Barat,Sintang,No,Yes,30000,6,Ya,Tidak,Ya,Tidak,Ya,Bakso,Nasi Padang,Sate
+20,Perempuan,Belum Menikah,S1,Pelajar/Mahasiswa,Belum ada pendapatan,Kalimantan Barat,Sekadau,Yes,Yes,"20,000",4,Ya,Ya,Tidak,Ya,Ya,Lamongan,Nasi Padang,Bakso
